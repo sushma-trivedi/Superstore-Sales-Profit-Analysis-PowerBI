@@ -30,7 +30,6 @@ Key Insights
 - Compared sales and profit across different regions.
 - Identified profitable and less profitable sub-categories.
 
+ Author
 
-## Author
-
-Mohit Trivedi
+Sushma Trivedi
